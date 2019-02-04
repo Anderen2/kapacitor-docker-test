@@ -1,0 +1,5 @@
+topic: default
+id: default_exec
+kind: exec
+options:
+    prog: /alert.sh

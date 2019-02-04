@@ -1,0 +1,3 @@
+{
+  "mytask:resource=googletest,server=http://google.com,host=google.com": "WARNING"
+}
