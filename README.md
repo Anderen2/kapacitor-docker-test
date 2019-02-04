@@ -1,5 +1,5 @@
-# Automated Kapacitor "var-file" testing using Docker containers
-This repository contains code for performing automated checks for testing Kapacitor var-files.
+# Automated Kapacitor task testing using Docker containers
+This repository contains code for performing automated checks for testing Kapacitor tasks and variable-files.
 
 ## Requirements
 - Docker daemon (the docker package needs to be installed, and the docker service running)
